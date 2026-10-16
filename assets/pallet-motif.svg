@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <!-- 3D isometric styled timber pallet silhouette -->
+  <g opacity="0.15" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Top Deck -->
+    <path d="M20 40 L60 20 L100 40 L60 60 Z"/>
+    <path d="M33 46 L73 26"/>
+    <path d="M46 53 L86 33"/>
+    <!-- Stringers & Blocks -->
+    <path d="M20 40 L20 52 L60 72 L60 60 Z"/>
+    <path d="M60 60 L60 72 L100 52 L100 40 Z"/>
+    <!-- Inner blocks -->
+    <path d="M36 58 L36 67"/>
+    <path d="M84 58 L84 67"/>
+    <!-- Bottom Skid Runners -->
+    <path d="M20 52 L60 72 L100 52"/>
+    <path d="M20 56 L60 76 L100 56"/>
+  </g>
+</svg>
+

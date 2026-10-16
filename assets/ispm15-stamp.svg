@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 90" fill="none">
+  <!-- Dashed treatment stamp border in crisp off-white -->
+  <rect x="3" y="3" width="194" height="84" rx="4" stroke="#FAF6F0" stroke-width="2.5" stroke-dasharray="6 3"/>
+  <line x1="58" y1="3" x2="58" y2="87" stroke="#FAF6F0" stroke-width="2"/>
+  
+  <!-- IPPC Wheat Ear symbol (in warm pine gold) -->
+  <g transform="translate(13, 9)" stroke="#DF9F52" stroke-width="2" stroke-linecap="round">
+    <line x1="16" y1="64" x2="16" y2="4"/>
+    <!-- Left grains -->
+    <path d="M16 16 C9 14, 5 20, 16 26" fill="none"/>
+    <path d="M16 28 C9 26, 5 32, 16 38" fill="none"/>
+    <path d="M16 40 C9 38, 5 44, 16 50" fill="none"/>
+    <!-- Right grains -->
+    <path d="M16 16 C23 14, 27 20, 16 26" fill="none"/>
+    <path d="M16 28 C23 26, 27 32, 16 38" fill="none"/>
+    <path d="M16 40 C23 38, 27 44, 16 50" fill="none"/>
+    <!-- Letters IPPC -->
+    <text x="3" y="67" font-family="'JetBrains Mono', monospace" font-size="8.5" font-weight="900" fill="#DF9F52" stroke="none">IPPC</text>
+  </g>
+
+  <!-- Right Details -->
+  <!-- Country / Region / Plant Code -->
+  <text x="72" y="27" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-weight="800" font-size="16" fill="#FFFFFF" letter-spacing="1">IN - GJ - 042</text>
+  <line x1="62" y1="36" x2="194" y2="36" stroke="rgba(200, 135, 58, 0.45)" stroke-width="1.5"/>
+  
+  <!-- Treatment Code -->
+  <text x="72" y="60" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-weight="900" font-size="22" fill="#DF9F52" letter-spacing="2">HT</text>
+  <text x="116" y="58" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-weight="700" font-size="11.5" fill="#FAF6F0">DB - 56°C/30M</text>
+  <text x="72" y="77" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-weight="700" font-size="9" fill="#C8873A" letter-spacing="1">ISPM-15 COMPLIANT</text>
+</svg>

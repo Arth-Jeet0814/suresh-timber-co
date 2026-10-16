@@ -1,0 +1,53 @@
+# ==============================================================================
+# Suresh Timber Company - Production .gitignore
+# ==============================================================================
+
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Editor & IDE Directories
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*~
+
+# Temporary, Cache & Log Files
+*.tmp
+*.temp
+*.log
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment Variables & Local Secrets
+.env
+.env.local
+.env.*.local
+
+# Dependency Directories (if npm/yarn used in future)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Output & Build
+dist/
+build/
+.cache/
+.parcel-cache/
+
+# Scratch & System Generated Logs
+.system_generated/
+scratch/
+
